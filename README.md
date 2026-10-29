@@ -58,3 +58,11 @@ python hand.py
 - A webcam or supported camera device is required for live demos.
 - The app uses the MediaPipe model files stored in [models/](models/).
 - If you run the pose script directly and see an import error, the project root is now handled automatically in [point/pose.py](point/pose.py).
+
+
+# Aravindhan Update
+the e
+every package is a my trail file is that my testing and acknoledgment for try one by one .....
+python version is 3.12 for all my hand and posture tracking . 
+in model folder i have a all python files . 
+just u can ask and understand 
