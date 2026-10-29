@@ -66,3 +66,6 @@ every package is a my trail file is that my testing and acknoledgment for try on
 python version is 3.12 for all my hand and posture tracking . 
 in model folder i have a all python files . 
 just u can ask and understand 
+
+# Advantages 
+its a trial version i used this for validationa nd code optimization 
